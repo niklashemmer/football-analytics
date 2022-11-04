@@ -1,6 +1,3 @@
-# Apparently, I have to use a dictionary and not at least.
-# Reason: List indices must be integers or slices
-
 Templates = {"striker": "striker",
             "centre_back": "centre_back",
             "attacking_mid": "Attacking Midfielder",
